@@ -40,7 +40,7 @@ def set_background(image_path):
     )
 
 # Call function with the correct image path
-set_background("startimage.jpeg")  # Ensure this image is in your project folder
+set_background("images.jpeg")  # Ensure this image is in your project folder
 
 model = load('model_EIU')
 
